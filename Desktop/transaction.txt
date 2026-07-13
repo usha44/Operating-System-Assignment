@@ -1,0 +1,7 @@
+1001,customer_A,amazon,100
+1002,customer_A,ebay,200
+1003,customer_A,walmart,3500
+1004,customer_A,target,6500
+1005,customer_B,amazon,150
+1006,customer_B,apple,800
+1007,customer_C,netflix,15

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/usha/usha.txt" added="2026-04-21T02:38:46.260708Z" modified="2026-05-19T02:20:55.410914Z" visited="2026-05-19T02:20:34.237173Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-05-19T02:20:55.410914Z" count="36"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/usha/uni" added="2026-04-21T02:41:11.267173Z" modified="2026-05-19T02:20:55.410912Z" visited="2026-05-19T02:20:34.236699Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-05-19T02:20:55.410910Z" count="24"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/usha/Downloads/thread1.c" added="2026-05-19T02:20:36.463538Z" modified="2026-05-19T02:20:55.410916Z" visited="2026-05-19T02:20:34.166160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-05-19T02:20:55.410915Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
