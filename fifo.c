@@ -30,6 +30,7 @@ void fifo() {
     }
 
     printf("Hits = %d\nFaults = %d\n", hit, fault);
+    printf("FIFO Simulation Completed.\n");
 }
 
 void lru() {
@@ -70,6 +71,7 @@ void lru() {
     }
 
     printf("Hits = %d\nFaults = %d\n", hit, fault);
+    printf("LRU Simulation Completed.\n");
 }
 
 int main() {
