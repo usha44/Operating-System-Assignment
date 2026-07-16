@@ -71,7 +71,7 @@ int main()
        pthread_join(t2, NULL);
        pthread_join(t3, NULL);
 
-       printf("\nRound Robin Scheduling\n");
+       printf("\n==== Round Robin Scheduling ====\n");
        printf("Turn 1 = Deposit Tread\n");
        printf("Turn 2 = Withdraw Thread\n");
        printf("Turn 3 = Balance Thread\n");
