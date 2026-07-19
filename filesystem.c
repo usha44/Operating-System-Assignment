@@ -22,6 +22,7 @@ int main() {
     }
 
     printf("\nLogin Successful!\n");
+    printf("Welcome to the Secure File Management System.\n");
 
     do {
         printf("\n===== Secure File Management =====\n");
