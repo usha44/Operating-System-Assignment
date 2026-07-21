@@ -41,12 +41,20 @@ int main() {
         case 1:
             // Read & Write File
             fp = fopen("notes.txt", "w");
+            if (fp == NULL) {
+                perror("notes.txt");
+                break;
+            }
             fprintf(fp, "Notes File (Read & Write)\n");
             fclose(fp);
             chmod("notes.txt", 0644);
 
             // Read Only File
             fp = fopen("report.txt", "w");
+            if (fp == NULL) {
+                perror("report.txt");
+                break;
+            }
             fprintf(fp, "Report File (Read Only)\n");
             fclose(fp);
             chmod("report.txt", 0444);
